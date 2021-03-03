@@ -24,7 +24,7 @@ body {
     padding: 2rem;
     box-shadow: 0 0 40px rgba(red, green, blue, alpha);
     border-radius: var(--border-radius);
-    background: white;
+    background: rgba(238, 238, 238, 0.4);
 }
 
 .container,
